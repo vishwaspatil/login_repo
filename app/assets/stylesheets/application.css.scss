@@ -16,3 +16,48 @@
  *= require_tree .
  *= require_self
  */
+
+body
+{
+	background-image:url("a1.jpg");
+
+}
+.login
+{
+	color: #fff;
+	font-size: x-large;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18, 0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18
+}
+.label
+{
+	display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 100;
+    color: #337ab7;
+    font-style: italic;
+    font-size: x-large;
+}
+	
+.rem
+{
+	display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 50;
+    color: #337ab7;
+    font-style: italic;
+    font-size: small;
+    font-family: FontAwesome;
+	
+}
+
+.taxi
+{
+	color: green;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+    font-family: FontAwesome;
+
+}
+
